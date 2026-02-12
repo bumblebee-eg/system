@@ -1,0 +1,25 @@
+- Requirements (30m)
+- Brainstorming (1h)
+	- Functional structure diagram
+	- TRIZ
+- Conceptual design (30m)
+- Timeline (15m)
+- Workflow (15m)
+	- Sprint
+	- Meetings
+		- Weekly meetings
+		- Weekly co-working sessions
+	- Tools
+		- GitHub organization (for overall management)
+			- Git (for version control)
+			- Timeline (project phases)
+			- General Tasks (detailed project tasks)
+			- Sprints (weekly tasks)
+			- meta repository (for general management and notes)
+			- Modules repositories (e.g. mechanical design repository, electronics repository for storing schematics and PCB designs, control repository for storing MATLAB models)
+		- Obsidian (as a shared digital notebook)
+		- Shared Drive (for PDFs and Videos)
+		- Overleaf (for professional report writing)
+		- WhatsApp community (for communication)
+			- Modules (according to the description)
+			- Meetings (meeting agendas and meeting notes)

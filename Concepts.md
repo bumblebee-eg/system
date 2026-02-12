@@ -1,6 +1,8 @@
 ## Schematic
 ![[MCT333_Project_Competition_Description_Spring2026_v4 (1).pdf#page=2&rect=98,436,504,600|MCT333_Project_Competition_Description_Spring2026_v4 (1), p.2]]
 ## AI-generated
+> ![[Pasted image 20260212165008.png]]
+
 > ![[MCT333_Project_Competition_Description_Spring2026_v4 (1).pdf#page=2&rect=184,221,412,395|MCT333_Project_Competition_Description_Spring2026_v4 (1), p.2]]
 
 > ![[grok-video-64cfff0c-935a-4747-992c-5c2ae3c6c2d5.mp4|200]]
