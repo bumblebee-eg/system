@@ -1,5 +1,5 @@
 ## General Concepts
-- [[Concepts]]
+- [[General Concepts]]
 ![[Approaches]]
 ## The Task
 > [!PDF|yellow] [[MCT333_Project_Competition_Description_Spring2026_v4 (1).pdf#page=5&selection=131,0,135,46&color=yellow|Core Challenge]]
@@ -18,11 +18,11 @@
 > [!PDF|yellow] [[MCT333_Project_Competition_Description_Spring2026_v4 (1).pdf#page=6&selection=14,0,18,13&color=yellow|Elevated Pickup Stations]]
 > > Pickup Stations: elevated pedestals (approx. 40 cm height) holding cubes with QR code encoding their color. Access is constrained to test omni-capabilities:
 
-|**Zone**|**Required Maneuver**|**Description**|
-|---|---|---|
-|**RED (Station A)**|**Pure Y Move**|You must approach the station straight-on and move purely forward/backward for final alignment before placing the cube.|
-|**BLUE (Station B)**|**Pure X Move**|You must face the station _parallel_ and strafe sideways (lateral movement) to place the cube.|
-|**GREEN (Station C)**|**Rotation Station**|You must align and then **rotate in place** to access and drop the cube.|
+| **Zone**              | **Required Maneuver** | **Description**                                                                                                         |
+| --------------------- | --------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **RED (Station A)**   | **Pure Y Move**       | You must approach the station straight-on and move purely forward/backward for final alignment before placing the cube. |
+| **BLUE (Station B)**  | **Pure X Move**       | You must face the station _parallel_ and strafe sideways (lateral movement) to place the cube.                          |
+| **GREEN (Station C)** | **Rotation Station**  | You must align and then **rotate in place** to access and drop the cube.                                                |
 
 ## The Features/Needs
 ### General Features
@@ -150,4 +150,4 @@
 > - Accuracy
 > - Autonomy Level
 > - Safety
-
+![[MCT333_Project_Competition_Description_Spring2026_v4 (1).pdf#page=9&rect=53,206,546,602|MCT333_Project_Competition_Description_Spring2026_v4 (1), p.9]]

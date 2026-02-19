@@ -1,0 +1,22 @@
+- [ ] Kanban board
+	- [ ] Assignees
+	- [ ] Emails
+	- [ ] Tags
+	- [ ] Relationships
+	- [ ] Time Estimates
+	- [ ] Attachments
+	- [ ] Search
+- [ ] Automatic Gantt Chart
+
+---
+
+- [ ] Teams
+- [ ] Structure (timeline, general, sprints, teams)
+- [ ] Integrated Environment
+- [ ] Ease of use
+- [ ] Sub-issues
+- [ ] Goals = timeline deadlines / overkill features
+- [ ] Linked issues in phases
+- [ ] Less Noise
+- [ ] Projects
+- [ ] Sprints

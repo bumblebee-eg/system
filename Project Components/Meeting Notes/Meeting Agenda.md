@@ -15,11 +15,30 @@
 			- Timeline (project phases)
 			- General Tasks (detailed project tasks)
 			- Sprints (weekly tasks)
-			- meta repository (for general management and notes)
+			- system repository (for general management and notes)
 			- Modules repositories (e.g. mechanical design repository, electronics repository for storing schematics and PCB designs, control repository for storing MATLAB models)
 		- Obsidian (as a shared digital notebook)
 		- Shared Drive (for PDFs and Videos)
-		- Overleaf (for professional report writing)
+		-  (for professional report writing)
 		- WhatsApp community (for communication)
 			- Modules (according to the description)
 			- Meetings (meeting agendas and meeting notes)
+		- CAD
+			- Inventor 2026
+		- Electronics Simulations
+			- Proteus
+		- PCB
+			- KiCAD 9
+		- Embedded
+			- PlatformIO
+			- Arduino IDE
+		- Modeling
+			- MATLAB
+			- Gazebo
+			- Python Libraries
+		- Robotics
+			- ROS2
+		- Engineering word processors
+			- MathCad
+			- SMath Studio
+			- WolframAlpha
