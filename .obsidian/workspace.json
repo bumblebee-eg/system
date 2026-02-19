@@ -11,32 +11,17 @@
             "id": "fd69ae5f994769f6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "Project Components/Design Philosophies/Design Philosophy.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git  (Working Tree)"
-            }
-          },
-          {
-            "id": "e59028ffd8e9e6ca",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Design Philosophy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,9 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e59028ffd8e9e6ca",
+  "active": "d7eae418c5eae447",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "made by me.md"
+    "made by me.md",
+    "Project Components/Design Philosophies/Design Philosophy.md",
+    "Untitled 1",
+    "Untitled"
   ]
 }
