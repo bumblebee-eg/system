@@ -3,5 +3,6 @@
   "accentColor": "#3e69b8",
   "interfaceFontFamily": "Rubik",
   "textFontFamily": "Rubik",
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "theme": "obsidian"
 }
