@@ -1,1 +1,0 @@
-![[Arm Power System Architecture.pdf]]

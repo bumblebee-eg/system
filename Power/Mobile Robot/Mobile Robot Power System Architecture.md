@@ -1,1 +1,0 @@
-![[Mobile Robot Electrical & Electronics Subsystem Architecture.pdf]]
